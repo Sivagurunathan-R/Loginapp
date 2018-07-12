@@ -1,0 +1,17 @@
+input.ng-invalid.ng-dirty{
+	border-color: #e91e63;
+	box-shadow: 0 0 0 0.2rem rgba(233, 30, 99,.25);
+    border-left: 5px solid #a94442;
+
+}
+/*green*/
+.ng-valid[required],
+.ng-valid.required {
+  border-color: #42A948;
+  border-left: 5px solid #42A948;
+  box-shadow: 0 0 0 0.2rem rgba(66, 169, 72,.25);
+}
+
+.btn-primary.disabled, .btn-primary:disabled{
+	opacity:.5;
+}
