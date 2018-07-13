@@ -12,20 +12,6 @@ input.ng-invalid.ng-dirty{
   box-shadow: 0 0 0 0.2rem rgba(66, 169, 72,.25);
 }
 
-
-
-.btn-primary.disabled, .btn-primary:disabled{
-	opacity:.5;
-}
-
-.btn-primary.disabled, .btn-primary:disabled{
-	opacity:.5;
-}
-
-.btn-primary.disabled, .btn-primary:disabled{
-	opacity:.5;
-}
-
 .btn-primary.disabled, .btn-primary:disabled{
 	opacity:.5;
 }
